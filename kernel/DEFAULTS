@@ -1,0 +1,7 @@
+options         IPFIREWALL
+options         IPFIREWALL_DEFAULT_TO_ACCEPT
+options         IPFIREWALL_VERBOSE
+options         IPFIREWALL_VERBOSE_LIMIT=100
+options         LIBALIAS
+options         DUMMYNET
+options         HZ="1000"
